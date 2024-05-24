@@ -1,0 +1,10 @@
+.not-found {
+    font-size: 3rem;
+    color: yellow;
+    margin-top: 5rem;
+    text-shadow: -0.3rem 0.5rem 1rem rgba(0, 0, 0, 0.2);
+  }
+
+  .loader {
+    width: 10rem;
+  }
